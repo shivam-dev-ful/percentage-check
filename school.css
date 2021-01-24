@@ -1,0 +1,22 @@
+#main{
+    background-color:orange;
+    width:30%;
+    height:200px;
+    margin-left: 27%;
+    margin-top: 15%;
+    display: center;
+    line-height: 90%;
+    
+   display: block;
+    border-radius: 50%;
+}
+center{
+    margin-top: 80px;
+    line-height:10px;
+
+}
+body{
+    background-image: url("5.jpg");
+    background-image: center;
+    background-size: cover;
+}
